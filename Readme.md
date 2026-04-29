@@ -8,7 +8,7 @@
 ## Structure
 - `.gmlenv/` — virtual environment (ignored in .gitignore)
 - `_references/` — course materials provided by professor (ignored in .gitignore)
-- `assets/` — files used in notebooks
+- `_assets/` — files used in notebooks
 - `assignment_0x/` — assignment folders added as course progresses
 
 ## Environment
